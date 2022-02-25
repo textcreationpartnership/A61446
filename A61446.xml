@@ -1,0 +1,207 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The shame and humiliation of the Quakers in a remarkable judgment of [...]tuation, already begun upon some of [...]stinate ministers of their second days meeting. With a fair warning and kind admonition to the rest, who are sincere, and desire to escape the snare of deceit, to beware of them. 1. A brief account of the beginning and progress of the difference between George Keith and the other Quakers, and of their meeting at Turners-Hall, April 29, 1697.</title>
+            <author>Stephens, Edward, d. 1706.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1697</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A61446</idno>
+            <idno type="STC">Wing S5441</idno>
+            <idno type="STC">ESTC R222026</idno>
+            <idno type="EEBO-CITATION">99833265</idno>
+            <idno type="PROQUEST">99833265</idno>
+            <idno type="VID">37740</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A61446)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37740)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2063:31)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The shame and humiliation of the Quakers in a remarkable judgment of [...]tuation, already begun upon some of [...]stinate ministers of their second days meeting. With a fair warning and kind admonition to the rest, who are sincere, and desire to escape the snare of deceit, to beware of them. 1. A brief account of the beginning and progress of the difference between George Keith and the other Quakers, and of their meeting at Turners-Hall, April 29, 1697.</title>
+                  <author>Stephens, Edward, d. 1706.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>sold by D. Brown, at the Black Swan and Bible without Temple-Bar and R. Smith, at the Angel without Linco[l]ns Inn-Gate, near the Fields,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1697?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>By Edward Stephens. Cf. Wing.</note>
+                  <note>Advertisement at the foot of p.8.</note>
+                  <note>Imperfect; text on title page is obscured by the British Library property stamp.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Quakers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:37740:1" rendition="simple:additions"/>
+            <head>THE Shame and Humiliation OF THE QUAKERS, IN A Remarkable <hi>Judgment of <gap reason="illegible" resp="#MURP" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ituation,</hi> already begun <hi>upon ſome of <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> Mi<g ref="char:EOLhyphen"/>niſters</hi> of their Second Days Meeting.</head>
+            <head type="sub">With a fair <hi>Warning</hi> and kind <hi>Admonition</hi> to the reſt, who are ſincere, and deſire to eſcape the Snare of Deceit, to beware of them.</head>
+            <div n="1" type="part">
+               <head>
+                  <hi>1.</hi> A Brief Account of the Beginning and Progreſs of the Difference between <hi>George Keith</hi> and the other <hi>Quakers,</hi> and of their Meeting at <hi>Turners-Hall, April 29, 1697.</hi>
+               </head>
+               <p>
+                  <hi>GEORGE KEITH,</hi> who had been bred a Scholar, had taken his degree of <hi>M. A.</hi> at <hi>Aberdeen</hi> in <hi>Scotland,</hi> and was one of the moſt Learned of all the <hi>Quakers,</hi> coming into <hi>Penſilvania,</hi> and obſerving the <hi>Quakers</hi> there to Preach up the <hi>Light within,</hi> but nothing of <hi>Chriſt without,</hi> con<g ref="char:EOLhyphen"/>trary to what he had aſſerted in behalf of the <hi>Quakers,</hi> againſt ſome who had charged them to be <hi>no Chriſtians;</hi> and being moved there<g ref="char:EOLhyphen"/>at, began to Preach up the <hi>true Doctrine concerning Christ;</hi> where<g ref="char:EOLhyphen"/>upon he was charged with Preaching up <hi>two Chriſts,</hi> and for aſſert<g ref="char:EOLhyphen"/>ing, <hi>that the Light within was not ſufficient without ſomething elſe.</hi> And ſeveral Hearings there were there about it: but it was carried there againſt him: ſo that he was forced to write about it to the Friends here; and, at laſt, to come over himſelf: but before he came over,
+<pb n="2" facs="tcp:37740:2"/>this gave him occaſion to conſider better of ſome other of their Principles, and he diſcovered in them divers other Errors, which he had never held, and that he himſelf had been carried away and de<g ref="char:EOLhyphen"/>ceived in ſome things, and particularly concerning the Sacraments of <hi>Baptiſm</hi> and the <hi>Lord's-Supper;</hi> ſo that he is now become one of the moſt moderate of the <hi>Diſſenters,</hi> but ingaging in no Party; only ſome of the <hi>Quakers</hi> are come off to him. When he came over, inſtead of Redreſs, he met with the like uſage here; only becauſe it would have been too groſs to have cenſured him expreſsly for that Cauſe, they made the moſt plauſible Pretences they could for it, and paſſed a Sentence of <hi>Excommunication</hi> againſt him. Where<g ref="char:EOLhyphen"/>upon he charged them with divers groſs <hi>Errors</hi> and <hi>Hereſies,</hi> and appointed the <hi>11th</hi> of <hi>June</hi> laſt to make good his Charge, at <hi>Turners-Hall</hi> in <hi>Filpot-Lane;</hi> but none of the Perſons concerned appearing then to anſwer the Charge, he Printed a <hi>Narrative</hi> of that Meeting: and again this Year, by a <hi>Printed Advertiſement,</hi> dated <hi>April</hi> 9. 1697. gave notice of another intended Meeting by him and his Friends at <hi>Turners-Hall,</hi> upon the <hi>29th</hi> of the ſame Month. At which Meeting he was further to detect the vile and groſs <hi>Errors and Hereſies</hi> of certain <hi>Quakers</hi> of their <hi>Second Days Meeting</hi> at <hi>Lom<g ref="char:EOLhyphen"/>bard-Street,</hi> (that is, of their <hi>Miniſters</hi>) wherewith they had been formerly charged by him in relation to Four Fundamentals of the Chriſtian Religion, to which thoſe Errors and Hereſies are directly repugnant: And the ſaid Perſons were deſired to be preſent. The <hi>Errors charged</hi> were theſe:
+<list>
+                     <item>1. <hi>That Faith in Christ, as he outwardly ſuffered at</hi> Jeruſalem, <hi>is not neceſſary to our Salvation.</hi>
+                     </item>
+                     <item>2. <hi>That Juſtification and Sanctification is not by the Blood of Christ outwardly ſhed.</hi>
+                     </item>
+                     <item>3. <hi>That there is no Reſurrection of the Body that dieth.</hi>
+                     </item>
+                     <item>4. <hi>That Christ is not to come without us in his glorified Body, even the ſame that formerly ſuffered Death for our Sins, to judge the Quick and the Dead.</hi>
+                     </item>
+                  </list>
+               </p>
+               <p>At the day appointed none of the Perſons deſired to be preſent appeared; ſo that he had nothing to do, but to produce the Proofs of his Charge againſt them, which he read out of the Books them<g ref="char:EOLhyphen"/>ſelves which were brought thither on purpoſe, and diſcourſed upon them: Of which a full Narrative is preparing for the Preſs. But two Perſons placed themſelves at the Entrance of the Gate of <hi>Tur<g ref="char:EOLhyphen"/>ners-Hall,</hi> and gave each of them a Paper to ſuch as were going in;
+<pb n="3" facs="tcp:37740:2"/>the one, Intituled, <hi>A Letter on</hi> George Keith<hi>'s Advertiſement,</hi> a Counterfeit, written as by one of the <hi>Church of England,</hi> but a very ſilly thing, and without any Name to it, and not worthy to be re<g ref="char:EOLhyphen"/>garded? but the other, Intituled, <hi>A Solemn Proteſtation against</hi> George Keith<hi>'s Advertiſement, &amp;c.</hi> Though as weak, yet appearing in that Form of a <hi>Proteſtation,</hi> and dated the very day of their Second Days Meeting, and written by ſome of them concerned; a Perſon of the <hi>Church of England,</hi> who had had divers Conferences with them, out of good will to do them good, and received one of them as he was going in, made ſome brief <hi>Obſervations</hi> upon it, which he put in Writing, and at the end of the Meeting read to the People there: Which being deſired by many, were permitted to be Printed with ſome <hi>Enlargements,</hi> as followeth:</p>
+            </div>
+            <div n="2" type="part">
+               <head>
+                  <hi>2.</hi> Obſervations upon the <hi>Quakers</hi> Solemn Proteſtation against <hi>George Keith</hi>'s Advertiſement.</head>
+               <p>
+                  <q>THIS <hi>Proteſtation</hi> being delivered at <hi>Turners-Hall-Gate</hi> at the time appointed by <hi>G. K.</hi> by Perſons known (I ſuppoſe) to be <hi>Quakers,</hi> and being written by and in the Name of the Perſons concerned, for ſo they ſtile themſelves, <hi>we therefore, who are con<g ref="char:EOLhyphen"/>cerned, &amp;c.</hi> p. 1. and in the Concluſion, <hi>Written, &amp;c. by ſome of them concerned;</hi> for theſe Reaſons it may deſerve ſome Conſidera<g ref="char:EOLhyphen"/>tion.</q> And theſe things are obſervable in it.</p>
+               <p n="1">1. <q>Their <hi>Tergiverſation,</hi> refuſing to vindicate themſelves and their Doctrines, when they had fair Notice of Time and Place, when and where divers vile and groſs Errors and Hereſies were to be objected and proved againſt them, before any who would be pre<g ref="char:EOLhyphen"/>ſent to hear it.</q>
+               </p>
+               <p>[Had this been only at this time, there might have been ſome ſpe<g ref="char:EOLhyphen"/>cial Cauſe for it: but this is not the firſt time; nor is <hi>George Keith</hi> the only perſon whom they have refuſed to anſwer. I muſt be a Witneſs againſt them; and many of their own People, if they be ſincere, and not more affected to a Party, than to the Truth, muſt bear me Witneſs againſt them; that I have divers times offered, at their own Head-Quarters, as I might call it, their Meeting-place between <hi>Grace-Church-Street</hi> and <hi>Lombard-Street,</hi> where they have their Conclave, and hold their Principal Aſſemblies, in a friendly and amicable manner to have diſcourſed ſome Matters wherein I know they are out of the way, or ſhort, and to have done my Endeavour to help them out, that they might be compleat in all things; and
+<pb n="4" facs="tcp:37740:3"/>offered, if they thought it not convenient at the time, to do it at ſome other time, which they ſhould appoint: but they never would be perſwaded to it. This their own People can many of them witneſs. But I muſt ſay more: I had before this had divers very friendly Meetings with 7 or 8 of the Principal of them at a time; and had ſent them ſeveral very kind Letters; had acquainted them with the ſpecial Reaſons and Motives of my Kindneſs to them; and given ſuch Evidence of my Sincerity that no reaſonable Man could queſtion: ſo that there can be no reaſonable Cauſe imagined why they ſhould refuſe to hear me, but only <hi>Obſtinacy</hi> and <hi>Conſciouſneſs</hi> of the Truth of what they knew I had to ſay, and of their own Errors; which, if they were indeed acted by the Spirit of God, and not by a Se<g ref="char:EOLhyphen"/>ducing Spirit, they would in all Humility acknowledge, admit the Conviction, and give Glory to God. Nor is this all: They had not ſo much confidence in the truth of <hi>their Cauſe,</hi> as to return ſo much as a Civil Anſwer in writing to any one of my Letters; nor to more than eight (as I remember) of twenty Queſtions, which I ſent to them; which being only preliminary, and not proceeding immediately to the Matters in queſtion between us, they anſwered plainly; but at the next two, which came nearer to the purpoſe, they began to boggle: and to any of the reſt they would not be prevailed with, by any means, to return any Anſwer, not ſo much as in pri<g ref="char:EOLhyphen"/>vate. And though ſome of theſe things have been in Print ever ſince the beginning of this Year, in <hi>January</hi> laſt, and before, and in their own hands, yet have they never offered at any Anſwer to them. And the reaſon will be apparent to thoſe who peruſe them. But to proceed to the next Obſervation, which is,]</p>
+               <p n="2">2. <q>The <hi>Weakneſs and Emptineſs</hi> of their <hi>Pretence</hi> to cover and excuſe that their Tergiverſation, That he <hi>aſſumed to himſelf a Power and Authority to erect ſeveral Meetings,</hi> &amp;c. which, had it been ſo, had been no more than what they themſelves have done, who have aſſumed ſuch Authority, not only to hear, but alſo to determine, cenſure, and paſs Sentence.</q>
+               </p>
+               <p>[Such <hi>another weak Pretence</hi> is that, That this Meeting tends to gratifie and ſtreng then <hi>the Popiſh Interest:</hi> forgetting how much their Faction and Errors do that, and how wiſely they do to immind us of it, and of what hath been objected againſt them in that reſpect.]</p>
+               <p n="3">3. <q>That their <hi>Pretence</hi> is not only weak, but manifeſtly and <hi>notoriouſly falſe;</hi> for he hath not taken upon him any thing of the part of a Judge; but only of a Witneſs, or an Informer, and that not in any appearance of a Judicature, but only in a Common Au<g ref="char:EOLhyphen"/>ditory, for the better Information of the People, that ſuch as have
+<pb n="5" facs="tcp:37740:3"/>been ſeduced into ſuch vile and groſs Errors and Hereſies might be reduced to the Truth, which is a good and commendable Under<g ref="char:EOLhyphen"/>taking and worthy of the Encouragement of both, the Governours of the Church, and of the Civil Magiſtrate.</q>
+               </p>
+               <p n="4">4. <q>That their <hi>Pretence</hi> is not only falſe in it ſelf, but <hi>contrary to their Conſcience:</hi> for they know, and own in their Paper, that he alleadged the <hi>Permiſſion of the Civil Authority:</hi> [The Letter alſo takes notice of that] And it is well known, that at the former Meeting an Officer of the Lord-Mayor did attend. And there was no reaſon to queſtion the Readineſs of the preſent Lord-Mayor to take the like Care upon the like Occaſion, being allowed by the Biſhop of <hi>London.</hi>
+                  </q>
+               </p>
+               <p>[But it appears ſince, that they had certain knowledge of this: for they made application to the Lord-Mayor not to permit the Meeting, and ſolicited the Interceſſions of others to him, but could not prevail.]</p>
+               <p n="5">5. <q>Their <hi>Preſumption to cenſure</hi> the Civil <hi>Authority,</hi> and all con<g ref="char:EOLhyphen"/>cerned therein, (as the Lord Biſhop of <hi>London</hi> was, without whoſe Approbation neither of the Lord mayors would have given any Countenance to it,) to cenſure them for permitting a Uſurped Authority, or Pernicious Preſident, for ſo they call the Fact, which was permitted by them; and theſe Men could not be ignorant of it.</q> [Of this more afterwards.]</p>
+               <p n="6">6. <q>The reſt of the Paper is very <hi>ſilly and impertinent,</hi> being prin<g ref="char:EOLhyphen"/>cipally againſt a Uſurped Authority, which is not in the Caſe, and ſuch little ſtuff as deſerves not to be noted.</q>
+               </p>
+               <p>
+                  <q>And from all this we may further obſerve, 1. The <hi>Weakneſs</hi> of theſe Men.</q> [Of which more hereafter.]</p>
+               <p n="2">2. <q>Their <hi>little regard to Honeſty and Conſcience.</hi>
+                  </q> [This appears in the third and fourth Obſervation.</p>
+               <p n="3">3. <q>Their Conſciouſneſs of the Weakneſs of their Cauſe.</q>
+               </p>
+               <p n="4">4. <q>That their Spirit is <hi>a falſe ſeducing Spirit,</hi> which hath deceived them, and can no more ſtand before the true Spirit of Chriſt, where it is preſent, than the Spirit of the Heathen Gods could here<g ref="char:EOLhyphen"/>tofore before true Chriſtians.</q> [This appears in all before-mentioned.]</p>
+               <p n="5">5. <q>That they are <hi>Deceivers,</hi> though deceived themſelves.</q>
+               </p>
+               <p n="6">6. <q>That <hi>the Judgments of God</hi> are coming upon them, to their Shame and Confuſion, who rejected the kind Offers of a Friend for their Good: and if they perſiſt <hi>Obſtinate</hi> in their Hereſies, all Peo<g ref="char:EOLhyphen"/>ple ought to avoid them, have nothing to do with them, but fly from them, as the People in the Wilderneſs did from <hi>Korah</hi> and his Companions, <hi>Numb.</hi> 16.34.</q>
+               </p>
+            </div>
+            <div n="3" type="part">
+               <pb n="6" facs="tcp:37740:4"/>
+               <head>
+                  <hi>3.</hi> Admonition to the Sincere.</head>
+               <p>THis I do not ſay of all that are called <hi>Quakers,</hi> nor of all thoſe whom they call <hi>Miniſters:</hi> for I am in hopes there are <hi>many ſincere People amongst them,</hi> who are miſled, and go on in great Simplicity; for whom, I hope and pray daily, that <hi>God will give them Repentance to the acknowledging of the Truth, that they may recover themſelves out of the ſnare of the Devil, who are taken Captive by him at his Will:</hi> and to that purpoſe I have been endeavouring, for many Months, in Meek<g ref="char:EOLhyphen"/>neſs, both by <hi>Conferences</hi> and by <hi>Letters,</hi> to inſtruct them better, who now oppoſe themſelves, and aſſiſt them to make a <hi>decent Re<g ref="char:EOLhyphen"/>treat</hi> in what they have overſhot themſelves; and to be themſelves the Inſtruments of reducing the People they had miſled into the Truth, without ever appearing my ſelf in publick: But there are ſome of the principal buſie and active Managers at the <hi>Conclave</hi> in <hi>White-hart-Court,</hi> who are filled with a Spirit of Pride and Obſti<g ref="char:EOLhyphen"/>nacy, and impoſe upon the reſt, oppoſe and ceaſe not to <hi>pervert the right Ways of the Lord,</hi> and the <hi>true Goſpel of Christ.</hi> And theſe are the Men I ſpeak of, who have had Offers of Grace and Truth, and ſtop their Ears, and harden their Hearts, and would blind and hood<g ref="char:EOLhyphen"/>wink all their People, leſt the <hi>true Light of the Glorious Goſpel of Chriſt ſhould ſhine unto them.</hi> And upon theſe, I do believe, the Judgments of God are coming, and that they ſhall proceed no further; for their Folly ſhall be manifeſt to all Men, as that of <hi>James</hi> and <hi>Jambres</hi> was. <hi>v. Hoſ.</hi> 13.3, 15.</p>
+               <p>Nay, The <hi>Iudgment of Infatuation</hi> is <hi>already begun</hi> upon them, in that they ſhould not only <hi>betray their Conſciouſneſs</hi> of the Weakneſs of their own Cauſe, by thus refuſing, both in publick and even in private, to give an Anſwer of the Reaſon of their Belief; but <hi>expoſe their own Weakneſs,</hi> Diſingenuity, and little regard to Ho<g ref="char:EOLhyphen"/>neſty and Conſcience, by ſuch a little deſpicable ſhuffling deviſe for their Excuſe, as theſe two Papers; and one of them <hi>a falſe Coun<g ref="char:EOLhyphen"/>terfeit,</hi> pretending to be written by one of the <hi>Church of England,</hi> who lived at a diſtance, and knew not who <hi>George Keith</hi> was: where<g ref="char:EOLhyphen"/>as it is very caſie to perceive that both came out of the ſame Forge, and that the Letter was hammered out by one of the ſame Work<g ref="char:EOLhyphen"/>men. It had certainly been better for their Cauſe to have been quiet, and done nothing at all. But it wants a ground of Truth, and can<g ref="char:EOLhyphen"/>not ſtand; and this little ſhuffling contrivance may juſtly make all, who have any care of their Souls, or even regard to their Reputation, to ſuſpect them to be <hi>Deceivers,</hi> and be aſhamed to continue of a
+<pb n="7" facs="tcp:37740:4"/>Sect, which is headed by ſuch ſilly, ſhuffling, diſhoneſt Men, who make merchandize of them, and cheat them of their Souls, to inrich themſelves by the trade of their Hearers.</p>
+               <p>But eſpecially is <hi>their Folly</hi> manifeſt <hi>in their Preſumption</hi> to reflect upon the Civil Authority, and all concerned, as the Biſhop of <hi>London</hi> is, for countenancing or permitting ſuch a Uſurped Authority, or Pernicious Preſident, as they ſay <hi>George Keith</hi> hath Aſſumed and Attempted, and thereby provoke them to inquire into a Matter, which is not at all practiſed by <hi>George Keith,</hi> but notoriouſly by them<g ref="char:EOLhyphen"/>ſelves, in ſuch manner as neither the Civil nor Eccleſiaſtical Autho<g ref="char:EOLhyphen"/>rity can be excuſed to connive at, after ſuch an awakening Alarm; their Second Days Meetings, their Monthly Meetings, their Quar<g ref="char:EOLhyphen"/>terly Meetings, and their Yearly Meetings, being all of them out of the <hi>Act of Toleration,</hi> plainly <hi>Seditious and Factious Meetings,</hi> puniſh<g ref="char:EOLhyphen"/>able by other Laws, and not juſtifiable or excuſable by any: This is a manifeſt <hi>Infatuation</hi> upon them: For it is very apparent, that they muſt be Men of more Subtilty and Ability, who have ordered theſe things, formed ſuch a Body, and trained the People to ſuch an intire Subjection, than ſuch ſilly Fellows who drew up theſe Papers: and therefore that the Civil Authority is obliged, according to the Judg<g ref="char:EOLhyphen"/>ment which theſe Men have paſſed in the Caſe, which is their own, and not <hi>George Keith</hi>'s, not longer to connive at or permit ſuch a Uſurped Authority, or Pernicious Preſident.</p>
+               <p>As for <hi>the rest, who are ſincere,</hi> and not willing to be impoſed upon and deceived in a matter of ſuch moment, but deſire to ſee their way plain before them, I have done <hi>two things</hi> already, which may be of no little uſe to them in this Buſineſs. 1. I have given as great Evi<g ref="char:EOLhyphen"/>dence and Demonſtration of my Sincerity and Good Will to them, as can reaſonably be deſired; not only from the whole Courſe of my Life, which is well known to have been all along very plain, open and downright: but more particularly in my dealings, both in Con<g ref="char:EOLhyphen"/>ferences and Letters, with the Chief of their Party. 2. I have ſo fully and plainly ſet out the Caſe of the Difference between us in certain Letters, and ſo prepared and led the way to a clear Reſo<g ref="char:EOLhyphen"/>lution in certain Queſtions, as is ſufficient for any ſerious, conſide<g ref="char:EOLhyphen"/>rate, and thinking Perſon, of a competent Capacity, by the Grace of God, to ſatisfie themſelves of the Truth in this matter. And both theſe are ſufficiently manifeſt in my <hi>Apology for, and Invitation to, the People call'd Quakers;</hi> and other Tracts Bound up with them. And this I ſhall be ready further to do for them: If any ſerious conſcien<g ref="char:EOLhyphen"/>cious Perſons, who having read and well conſidered what I have written in the <hi>Letter</hi> and <hi>Queſtions</hi> printed in that Book, and what
+<pb n="8" facs="tcp:37740:5"/>beſides is there relating to them, remain unſatisfied, upon any rea<g ref="char:EOLhyphen"/>ſonable grounds; and ſhall in writing under their Hand give me a reaſonable account of their Diſſatisfaction, and the Grounds thereof, I ſhall faithfully endeavour, by the Grace of God, to give them full Satisfaction, either in publick or private, as I ſhall have Opportunity, and ſee there is Occaſion; and demonſtrate, That, in divers of their peculiar Tenents and Doctrines, they are <hi>Deceivers,</hi> either know<g ref="char:EOLhyphen"/>ingly <hi>Deceiving,</hi> or groſsly <hi>deceived</hi> themſelves; and if by any Spi<g ref="char:EOLhyphen"/>rit, by a Wicked, Falſe, Lying, Seducing, Antichriſtian Spirit, diſ<g ref="char:EOLhyphen"/>guiſed under the Appearance of the Spirit of Truth, ſuch as have been foretold ſhould come, that all might beware of them.</p>
+               <p>More particularly; both from their Principles, and from their Practices, or from matter of Fact: 1. That it is a <hi>Spirit of Error,</hi> a Lying, Seducing Spirit. 2. That it is a <hi>Spirit of Iniquity,</hi> acting con<g ref="char:EOLhyphen"/>trary to Civil and Moral Juſtice in matters of their Faction. 3. That it is a <hi>Spirit of Oppoſition,</hi> a fallacious undermining <hi>Antichriſtian Spirit,</hi> and that not only in their other Principles and Practices, but <hi>in the principal of all their Principles,</hi> even that great and holy Principle, <hi>The Guidance of the Spirit of God,</hi> which this wicked Spirit hath taken upon him to perſonate, and doth deceive them by a moſt ſubtile Tentation of <hi>Miſapplication</hi> of that great Truth: and that it doth act now in that kind of Injuſtice, <hi>Fraud and Deceit;</hi> but would if it had Humane Strength enough, and certainly will, if ever it hath, act alſo the other, of <hi>Force and Violence,</hi> like the <hi>Mahometans:</hi> and that it is juſtly per<g ref="char:EOLhyphen"/>mitted by God <hi>for Correction</hi> of what is amiſs in the Church, as an <hi>In<g ref="char:EOLhyphen"/>ſtrument of his Vengeance,</hi> to make them ſenſible of their Unfaithful<g ref="char:EOLhyphen"/>neſs, and reform. All this I intend, by the Grace of God, to demon<g ref="char:EOLhyphen"/>ſtrate in due time: and deſire all ſerious People to conſider of it in the mean time.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>ADVERTISEMENT.</head>
+            <p>
+               <hi>TRacts Theological. 1.</hi> Aſceticks, or the Heroick Piety and Vertue of the Ancient Chriſtian <hi>Anchorets</hi> and <hi>Coenobites. 2.</hi> The Life of St. <hi>Antony</hi> out of the <hi>Greek</hi> of St. <hi>Athanaſius. 3.</hi> The Antiquity and Tradition of <hi>Myſtical Divinity</hi> among the <hi>Gentiles. 4.</hi> Of the Guidance of the Spirit of God, upon a Diſcourſe of Sir <hi>Matthew Hale</hi>'s concerning it. <hi>5.</hi> An Invitation to the <hi>Quakers,</hi> to rectifie ſome Errors, which through the Scandals given they have fallen into.</p>
+            <p>
+               <hi>Sold by</hi> D. Brown, <hi>at the</hi> Black Swan <hi>and</hi> Bible <hi>without</hi> Temple-Bar <hi>And</hi> R. Smith, <hi>at the</hi> Angel <hi>without</hi> Linco<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns-Inn-Gate, <hi>near the</hi> Fields.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:37740:5"/>
+         </div>
+      </back>
+   </text>
+</TEI>
